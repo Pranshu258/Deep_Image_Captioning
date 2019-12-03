@@ -1,3 +1,6 @@
+## Code taken from https://github.com/kelvinxu/arctic-captions/blob/master/metrics.py
+## For Deep Image Captioning
+
 """
 Computes the BLEU, ROUGE, METEOR, and CIDER
 using the COCO metrics scripts
