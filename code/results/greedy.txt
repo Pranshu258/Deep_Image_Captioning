@@ -1,0 +1,1064 @@
+<START> a woman <UNK> an umbrella in a vase <END>
+<START> a black fire is sitting in front of a building <END>
+<START> there is a small living room with a coffee table <END>
+<START> a small dog <UNK> over a wooden floor <END>
+<START> a small flock of water planes on the grass <END>
+<START> there is a wooden bench sitting on a motorcycle in the water <END>
+<START> a black and white truck is parked next to a red and city bus <END>
+<START> <UNK> sitting behind a table eating pizza <END>
+<START> a group of people playing a game of tennis <END>
+<START> a man and a woman laying on his back in the living <END>
+<START> a vase with a white flowers sitting on top of a table <END>
+<START> a bathroom sink with a toilet mirror and window <END>
+<START> a computer and <UNK> set up on a chair <END>
+<START> a cat sitting in a field of green trees <END>
+<START> a person in a snow skiing with a snow covered ground <END>
+<START> a group of elephants grazing in a field <END>
+<START> a herd <UNK> truck is parked on a dirt road <END>
+<START> a close up of two men in a city street <END>
+<START> a man is <UNK> a piece of cake with a child <END>
+<START> a man and a woman are flying a kite <END>
+<START> a dog running on the field with a bat flying <UNK> <END>
+<START> a room with a tv mounted on the corner of a chair <END>
+<START> a living room with a couch and table <UNK> <END>
+<START> a <UNK> computer with a monitor and <UNK> <END>
+<START> a bus driving on the side of a road in a city <END>
+<START> a group of people are standing on top of a table <END>
+<START> two men wearing a <UNK> hat and a <UNK> <UNK> <END>
+<START> a couple of people riding on a street near a <UNK> <END>
+<START> a bathroom with a sink toilet mirror and shower <END>
+<START> a man wearing a suit sitting on a <UNK> table <END>
+<START> the kitchen has a <UNK> counter in an open <END>
+<START> a young boy sits with a stuffed animal on his head <END>
+<START> a man swinging a tennis racket on a court <END>
+<START> a group of people standing on <UNK> next to a crowd <END>
+<START> a black bear is <UNK> to the other plants <END>
+<START> a couple of people standing by a horse in a park <END>
+<START> a man riding on a snowboard atop a <UNK> board <END>
+<START> a couple of people riding on the water near a river <END>
+<START> a plate with <UNK> of meat and rice on a table <END>
+<START> a man <UNK> a motorcycle with a <UNK> back parked <END>
+<START> a man on a surfboard riding an <UNK> of a man <END>
+<START> a street sign with <UNK> many <UNK> <END>
+<START> a girl is <UNK> out a dirt pasture <END>
+<START> a man in the <UNK> riding on a surfboard <END>
+<START> a man in a baseball uniform standing on a field <END>
+<START> a <UNK> bathroom with a tub and white sink <END>
+<START> a man cutting the <UNK> into a cake <END>
+<START> a cat that is sitting on a bed <END>
+<START> two young women with a child standing on a leash <END>
+<START> a man and a woman in a black wet suit on a wave <END>
+<START> a white plate topped with a blue and piece of chicken <END>
+<START> two <UNK> are men standing in a grassy field <END>
+<START> a man flying a kite on the beach <END>
+<START> a large airplane on the runway ready to take off <END>
+<START> a man and a woman in glasses are holding wine glasses <END>
+<START> a bear is standing in the dirt <END>
+<START> a sign that is <UNK> by two other <UNK> <END>
+<START> a dirty toilet in a clean bathroom stall <END>
+<START> a cat sitting on a tiled bathroom at the <UNK> <END>
+<START> a boy swinging a baseball bat on a <UNK> <END>
+<START> a woman sitting on a couch that is standing in the water <END>
+<START> a <UNK> truck sits in a large <UNK> hole <END>
+<START> a man is standing on a snowboard in the snow <END>
+<START> a man and woman <UNK> are holding a plate of food <END>
+<START> an <UNK> cake is on a <UNK> plate <END>
+<START> the <UNK> man is <UNK> the skateboard on the ramp <END>
+<START> a woman is sitting in a plate of food at a cell phone <END>
+<START> a baseball player holding a bat on a field <END>
+<START> a close up of bread of <UNK> and oranges <END>
+<START> a small <UNK> town on a motorcycle stands as a <UNK> <END>
+<START> a <UNK> plate with some flowers of meat and <UNK> <END>
+<START> a person with a laptop <UNK> and a computer <END>
+<START> a woman <UNK> a camera on a <UNK> phone <END>
+<START> a tennis player with a racket looking up <END>
+<START> a man in black <UNK> and tie at a <UNK> <END>
+<START> a close shot of a building sits in the water <END>
+<START> a black cat is sitting on top of a chair <END>
+<START> a <UNK> truck with a <UNK> and white sheep <END>
+<START> a baby is sitting with a bunch of bananas <END>
+<START> a man riding a skateboard on a city street <END>
+<START> a woman is eating food into a bowl <END>
+<START> a group of men who are playing <UNK> on a field <END>
+<START> a woman in a kitchen <UNK> counter oven <END>
+<START> a bunch of <UNK> of water outside with the <UNK> <END>
+<START> a group of people that are standing in the grass <END>
+<START> a large white dog lays in a plate of <UNK> <END>
+<START> a woman that is sitting on a table <END>
+<START> a white toilet in the bathroom sink <END>
+<START> a man wearing a brown <UNK> shirt a tie <END>
+<START> a beautiful young man <UNK> a pair of scissors <UNK> over a <UNK> <END>
+<START> skiers are making their way down a <UNK> <END>
+<START> a truck with <UNK> and <UNK> <UNK> a parking meter <END>
+<START> a pizza is on a plate <END>
+<START> a car driving down the street of a road and some lights <END>
+<START> a traffic light <UNK> with some <UNK> on the side of a road <END>
+<START> a man in black and white woman is holding a brown and looking <END>
+<START> a person with a <UNK> frisbee from a <UNK> at the road <END>
+<START> a white kitchen with microwave oven and <UNK> <END>
+<START> a man and woman in a woman playing a game <END>
+<START> a woman <UNK> to a tennis ball into a <UNK> <END>
+<START> a group of people <UNK> in a water field <END>
+<START> a group of people at a table with a cake <END>
+<START> a man <UNK> the side of a <UNK> street <END>
+<START> a group of elephants standing in the middle of an <UNK> <END>
+<START> a large of birds sitting on top of a street <END>
+<START> a black cat is sitting on top of a chair <END>
+<START> a group of elephants <UNK> away from the water of a tree <END>
+<START> a woman sitting on a couch using a cell phone <END>
+<START> a bowl of <UNK> with a <UNK> and a <UNK> banana <END>
+<START> a young man is holding a tennis racket on a court <END>
+<START> a white bowl with broccoli <UNK> and <UNK> <END>
+<START> a bathroom with a toilet and sink looking at a <UNK> <END>
+<START> a <UNK> man leaning against a pole on a sandy beach <END>
+<START> <UNK> and small children are <UNK> on a table <END>
+<START> a group of <UNK> <UNK> food sitting in a kitchen <END>
+<START> a woman in the dark green and black frisbee are holding his baseball <END>
+<START> the two men are making a video game <END>
+<START> a red stop sign on the street in a city street <END>
+<START> a small living room with <UNK> made and white bed <END>
+<START> a baseball player is on a base during the game <END>
+<START> an airplane with <UNK> from the <UNK> on a <UNK> <END>
+<START> a large white kitchen with lots of sitting in a bathroom <END>
+<START> a couple of hot dogs sitting on a table <END>
+<START> watching tv on a cellphone at dinner time <END>
+<START> <UNK> photo of two luggage sitting on a luggage case <UNK> <END>
+<START> a man swinging a tennis ball in a crowd <END>
+<START> a small vase with blue <UNK> on the top of green broccoli <END>
+<START> a view of a fire <UNK> has been <UNK> <UNK> <END>
+<START> <UNK> men with <UNK> <UNK> of her and <UNK> riding a <UNK> <END>
+<START> a boy is on a boat in the water <END>
+<START> a group of people walking on a city street in the rain <END>
+<START> there is a white plate that has vegetables and potatoes on it <END>
+<START> a very big boat docked that has been <UNK> <END>
+<START> a <UNK> dog the beach at a game <END>
+<START> stop sign at an intersection on a <UNK> street <END>
+<START> a close up of some food <END>
+<START> a black and white cat looking at its <UNK> in a kitchen <END>
+<START> a kitchen with a refrigerator <UNK> of food <END>
+<START> a woman is <UNK> her holding a <UNK> to the phone <END>
+<START> a man on a skateboard ground with an <UNK> <UNK> <END>
+<START> a couple of elephants walking around a large <UNK> <END>
+<START> a very cute dog laying in a brick building <END>
+<START> a young man is on a beach with a small dog <END>
+<START> a woman <UNK> and flying a kite are parked on the sidewalk <END>
+<START> a red and white boy van made out of <UNK> <UNK> <END>
+<START> a couple of people riding down on a <UNK> street <END>
+<START> a white oven standing next to a sink mirror <END>
+<START> a teddy bear sitting on top of a chair <END>
+<START> a vase of flowers in a vase with it are on it <END>
+<START> a man is <UNK> playing tennis in a living room <END>
+<START> a pizza is on a plate of cooked <END>
+<START> a giraffe and <UNK> stand under the <UNK> of leaves <END>
+<START> a truck with a parking meter and a car behind it <END>
+<START> a white car is parked in a lot of cars <END>
+<START> a double decker bus drives down a street <END>
+<START> some <UNK> fruit are sitting on top of a table <END>
+<START> a row of tennis <UNK> flying in the sky <END>
+<START> a man who is talking on a cell phone <END>
+<START> the young man is <UNK> over his skateboard <END>
+<START> a refrigerator filled with lots of food sitting inside <END>
+<START> a <UNK> dish <UNK> with chicken and vegetables and potatoes on a plate <END>
+<START> a fire hydrant is decorated with <UNK> wooden <UNK> <END>
+<START> a red stop sign sitting on a street in front of a <UNK> <END>
+<START> a street sign on a <UNK> with a dog <END>
+<START> three very pretty <UNK> cat laying in a big kitchen <END>
+<START> a black and white cat sitting in a bed <END>
+<START> a large white plate with a bus stop it to it <UNK> <END>
+<START> a plane sitting on the side of a hill in the day <END>
+<START> a man in a surfboard riding an ocean wave <END>
+<START> a bathroom sink with a toilet and shower head <END>
+<START> a kitchen has stainless steel appliances and wooden cabinets <END>
+<START> a black brown <UNK> and a white boat in a <UNK> <END>
+<START> a zebra <UNK> in the grass and eating <END>
+<START> there is a small road sitting on a bench with one side <END>
+<START> a man is <UNK> a tennis ball <END>
+<START> a sign that is <UNK> next to a building <END>
+<START> a man is walking along a snowy mountain of a mountain <END>
+<START> a man in the kitchen who appears to be <UNK> something <END>
+<START> a man on a city <UNK> holding an umbrella <END>
+<START> a group of people sitting on a field playing around <END>
+<START> a man and <UNK> parked on a parking lot <END>
+<START> a black <UNK> and white train is traveling on a bridge <END>
+<START> a red and yellow train passing <UNK> in a train station <END>
+<START> a cat sitting on a chair next to a monitor <END>
+<START> a pizza is <UNK> with cheese on it <END>
+<START> a yellow <UNK> truck <UNK> down a street <END>
+<START> a <UNK> jet is flying in the sky <END>
+<START> a black motorcycle is sitting on the side of a building <END>
+<START> a group of animals graze in tall grass <UNK> <END>
+<START> a tall clock tower <UNK> <END>
+<START> an elephant <UNK> on a tree branch in the <UNK> <END>
+<START> woman standing in front of a row of <UNK> <END>
+<START> a large crowd of people at the <UNK> airport <END>
+<START> there is a brown dog sitting on the floor beside a woman <END>
+<START> a large room containing table with flowers and a table in it <END>
+<START> a boy on top of a field by a baseball game <END>
+<START> a man on skis is <UNK> in the snow skis <END>
+<START> a baseball player hitting a ball with a bat <UNK> <END>
+<START> a man leaning on a city street with a light <UNK> <END>
+<START> a plate with <UNK> of food on it and <UNK> <END>
+<START> a plate of flowers sitting on a table with a white vase <END>
+<START> a desk that is <UNK> into a living room <END>
+<START> a blue and white jet <UNK> airplane in front of a lot <END>
+<START> a plate with <UNK> food on it and a white plate <END>
+<START> a <UNK> room with a couch <UNK> center <END>
+<START> a motorcycle with many <UNK> <UNK> the <UNK> <END>
+<START> a man in black jacket is <UNK> down a snow covered <UNK> <END>
+<START> a black and white cat sitting in a bed <END>
+<START> a red traffic light hanging from a street <END>
+<START> a man is standing on a brown board <END>
+<START> a man standing on the floor in a shop <END>
+<START> a <UNK> truck that is <UNK> in the water <END>
+<START> a airplane parked on the runway next to another <END>
+<START> a <UNK> in a baseball player being <UNK> on the base <END>
+<START> a zebra standing in the grass on a sunny day <END>
+<START> the <UNK> of flowers are <UNK> on the green leaves <END>
+<START> a plate topped with some <UNK> and some <UNK> <END>
+<START> a kitchen with a microwave oven and stand <UNK> <END>
+<START> a person and <UNK> along the side of the road <END>
+<START> a person holding a <UNK> doughnut <END>
+<START> an <UNK> looks at a woman holding two birds <END>
+<START> a <UNK> man is flying through the water with a mirror <END>
+<START> a group of young children riding on a grassy field near a crowd <END>
+<START> a very large clock tower sitting on the top of a city <END>
+<START> parked motor scooter with many <UNK> view <UNK> attached to it <END>
+<START> a tennis player <UNK> to serve a tennis ball <END>
+<START> a woman sitting in front of a laptop computer on a couch <END>
+<START> a woman on a bed with a black cat looking over <END>
+<START> a row of building with people sitting on a beach flying kites <END>
+<START> a bowl with a <UNK> bunch of bananas and other <UNK> <END>
+<START> a pair of scissors next to a pizza on it <END>
+<START> a <UNK> red next to a red <UNK> <END>
+<START> a man is riding skis down a snow covered slope <END>
+<START> a baseball player holding a bat as the <UNK> catcher <END>
+<START> a young man riding on the skateboard next to a <UNK> <END>
+<START> a young man holding a remote controller with their <UNK> controllers <END>
+<START> a fire hydrant is <UNK> by a house <END>
+<START> the couple is playing a video game together in the room <END>
+<START> a baby sitting under a pizza <END>
+<START> a kitchen with a refrigerator and its <UNK> <END>
+<START> a tennis player with a racket in a <UNK> is a tennis ball <END>
+<START> a man riding a wave on top of a surfboard <END>
+<START> a kitchen with a stove and sink with it <END>
+<START> a yellow sign is sitting on a city street near a building <END>
+<START> the kitchen has the counter <UNK> and it are <UNK> <END>
+<START> a table with <UNK> sitting on the side of a <UNK> <END>
+<START> a <UNK> woman are holding a table next to a fire <END>
+<START> <UNK> luggage and toy trucks on the street <END>
+<START> the zebra stands underneath a field of grass and <UNK> <END>
+<START> a man flying through a blue <UNK> next to him <END>
+<START> a group of people looking at a laptop <END>
+<START> a man taking a swing at a baseball <END>
+<START> a giraffe standing next to a fenced in <UNK> <END>
+<START> a person with a <UNK> metal bench in the rain <END>
+<START> a kitchen with a stove and sink of <UNK> <END>
+<START> a man in white <UNK> and green jacket standing near a tennis <END>
+<START> a tennis player swinging a racket at a bat <END>
+<START> a bus is stopped in front of a building <END>
+<START> a man riding a wave in the ocean on a surfboard <END>
+<START> a woman prepares to get a horse at a horse with her <UNK> <END>
+<START> a man riding a wave on top of a surfboard <END>
+<START> a woman sitting at a table with two lit empty <END>
+<START> a man <UNK> a ball on his <UNK> head <END>
+<START> a red and white train is going down the tracks <END>
+<START> three giraffes stand in an area with <UNK> food <END>
+<START> two men standing in front of a man <UNK> a giant cake <END>
+<START> a bunch of sheep on a beach with the <UNK> of water <END>
+<START> a baby is holding an open in the <UNK> <END>
+<START> a person <UNK> a trick at a skate park <END>
+<START> a <UNK> bed with a <UNK> of <UNK> and a stuffed animal on it <END>
+<START> a bird is standing on a dirt with brown <UNK> <END>
+<START> a black and white bus is parked on a street <END>
+<START> the <UNK> dog sits on the side of a chair in a living room <END>
+<START> <UNK> man and <UNK> riding on the side of a building <END>
+<START> a woman eats a book an apple keyboard <END>
+<START> a man <UNK> a little boy to a <UNK> a giant <END>
+<START> a woman sitting in a <UNK> box on a table <END>
+<START> a large truck parked on the side of a city street <END>
+<START> a large <UNK> stands near a <UNK> of trees <END>
+<START> a red and white train is going down the tracks <END>
+<START> old <UNK> on the <UNK> with an <UNK> behind it <END>
+<START> a baseball player throwing a baseball on a field <END>
+<START> a truck driving down a city street with a traffic light <END>
+<START> a horse <UNK> with <UNK> and <UNK> in a train <END>
+<START> a stop sign that has been <UNK> off <END>
+<START> a person in a field with many kites flying in the air <END>
+<START> a man standing in a <UNK> room with a large mirror and a dog <END>
+<START> a man is trying to <UNK> the water <END>
+<START> a bathroom is with a toilet and a <UNK> shower <END>
+<START> a cat laying on a bed while looking at a <UNK> <END>
+<START> a table with some food and a full of bananas <END>
+<START> a man is playing with a game of <UNK> <END>
+<START> a boat that is <UNK> in the water holding a single kite <END>
+<START> a large clock tower with the <UNK> around it <END>
+<START> a woman sits on a couch in a black <UNK> <END>
+<START> a <UNK> sign is standing in the middle of a road <END>
+<START> a black and white cat is <UNK> on a pile of <UNK> <END>
+<START> an elephant and its <UNK> on a train platform <END>
+<START> a man is holding a <UNK> while looking at a <UNK> <END>
+<START> a giraffe stands in the woods while a tree <UNK> <END>
+<START> a man on a motorcycle with a <UNK> is <UNK> <END>
+<START> a small flock <UNK> to a brown teddy bear looking down <END>
+<START> a man <UNK> on skis standing in the snow <END>
+<START> a sign covered <UNK> in a street next to a building <END>
+<START> a black truck with the <UNK> top on the <UNK> <END>
+<START> a cat sitting on a bed in a room <END>
+<START> a <UNK> plane flying through a blue sky <END>
+<START> pizza <UNK> with several <UNK> of meat and a white photograph <END>
+<START> a <UNK> of planes and a <UNK> mountain in the snow <END>
+<START> a man driving his bicycle <UNK> down a street <END>
+<START> a group of people sitting at a table eating <END>
+<START> a black and white picture of a woman holding a tennis racquet <END>
+<START> a table with some bananas of <UNK> and <UNK> <END>
+<START> a group of people sitting on the <UNK> of a road with the <UNK> dog <END>
+<START> a man that is on the beach holding the surfboards <END>
+<START> a man is riding a <UNK> on a snow covered slope <END>
+<START> a traffic light under a green and a <UNK> under <END>
+<START> a herd of <UNK> elephants walking on a river <END>
+<START> a black fire hydrant is <UNK> to a black <UNK> on a street <END>
+<START> a clock and some <UNK> of a <UNK> <END>
+<START> a baseball player holding a bat on the top of a field <END>
+<START> a man holding a <UNK> while standing on a surfboard <END>
+<START> a very old image of <UNK> <UNK> and <UNK> <END>
+<START> a man flying a kite high in the ocean <END>
+<START> a large <UNK> of water <UNK> with a <UNK> going <END>
+<START> a bowl of pasta broccoli and some <UNK> type <END>
+<START> a woman sits in front of a red fire hydrant <END>
+<START> a person is cutting into a piece of meat on a <UNK> <END>
+<START> a person on a <UNK> is wearing a <UNK> <END>
+<START> a <UNK> with a bunch of <UNK> sitting on top of it <END>
+<START> a woman sitting on her table with a white <UNK> on her <END>
+<START> a bowl of oranges with a bowl on its head <END>
+<START> a man watching a woman in a black jacket hat on a beach <END>
+<START> a <UNK> man in <UNK> and a <UNK> baseball game <END>
+<START> a sign <UNK> <UNK> to <UNK> a wall in a <UNK> <END>
+<START> a person skiing down a hill with snow <UNK> <END>
+<START> a baseball player swinging a bat as he <UNK> a frisbee <END>
+<START> a group of <UNK> with very <UNK> grazing in a kitchen <END>
+<START> a wooden bench near a little boy in the water <END>
+<START> a couple of people walking in the water <END>
+<START> a man is playing a video game with a wii remote <END>
+<START> a bus <UNK> at a bus stop <UNK> passengers get <END>
+<START> a man is on a snowboard in a snow covered slope <END>
+<START> a <UNK> orange <UNK> sitting on a black chair <END>
+<START> a woman is sitting on a beach at the <UNK> <END>
+<START> a <UNK> is traveling with a <UNK> and red bird <END>
+<START> a cup of <UNK> coffee sitting on a table <END>
+<START> a woman eating food at a restaurant <END>
+<START> a woman <UNK> a skateboard as she <UNK> down a slope <END>
+<START> three birds are sitting on to each other at a <UNK> <END>
+<START> a brown bear sitting between <UNK> rocks next to trees <END>
+<START> a woman in a hat and tie and <UNK> a <UNK> <END>
+<START> a man is standing on a snow covered field with a child <END>
+<START> a clock <UNK> clock decorated in <UNK> and windows <END>
+<START> two people in a kitchen cooking over a stove <END>
+<START> a black bird is on a beach <END>
+<START> a giraffe jumping up in the grass near a tree <END>
+<START> a girl at a <UNK> game of <UNK> with a bat <END>
+<START> the man is posing for a black and white photo <END>
+<START> a lone plane flying through a bright blue sky <END>
+<START> a small zebra standing in the grass <END>
+<START> a group of young children <UNK> on the ground with a tree <END>
+<START> a black cat is sitting on top of a chair <END>
+<START> a tennis player holding a racket on a court <END>
+<START> a kitchen with a stove top and sink <END>
+<START> a red and yellow <UNK> sign by the <UNK> <END>
+<START> a <UNK> woman sitting in a room with a sink <END>
+<START> a sandwich and salad with <UNK> on a white plate <END>
+<START> a woman with <UNK> glasses on her <UNK> <END>
+<START> a young man is holding a fence holding some bananas <END>
+<START> a cup of <UNK> with two cups <UNK> on a brick wall <END>
+<START> a woman is walking in a <UNK> carrying her <UNK> <END>
+<START> a dog that is standing in the water <END>
+<START> people standing near a boy is <UNK> by a park <END>
+<START> a small long <UNK> train is going down the track <END>
+<START> a group of men <UNK> children in a snow <UNK> getting ready to <UNK> <END>
+<START> a man sits at table with an <UNK> <UNK> <END>
+<START> a baseball player with a bat standing on top of a field <END>
+<START> a man <UNK> his cell phone while that is are in the same time <END>
+<START> a child drinking from a chocolate cake and a <UNK> <END>
+<START> a street sign is displayed in the <UNK> of a <UNK> <END>
+<START> a <UNK> is sitting at a table with several <UNK> of <UNK> <END>
+<START> a person laying on a table with a blue <UNK> <END>
+<START> a large clock tower <UNK> over a city <UNK> <END>
+<START> the toilet and <UNK> area is <UNK> dirty <END>
+<START> a group of elephants standing in a large field <END>
+<START> two men holding wii controllers playing video games <END>
+<START> a young baseball player is <UNK> to bat at a ball <END>
+<START> a couple of elephants walking through the sand with a <UNK> <END>
+<START> a photo of an ocean with several people surfing <END>
+<START> a young girl teddy bear <UNK> a basket <END>
+<START> a group of food with <UNK> sitting on a table <END>
+<START> a cat is on a wood <UNK> chair <END>
+<START> a man riding a wave on top of a surfboard <END>
+<START> a <UNK> sandwich <UNK> with cheese and vegetables on a plate <END>
+<START> a red and white <UNK> is shown sitting next to a tree <END>
+<START> a couple of <UNK> are playing something on a couch <END>
+<START> a young woman walking with a man walking behind a beach <END>
+<START> a small sign <UNK> against a <UNK> on a wall <END>
+<START> a man is skiing in a snow <UNK> while people <END>
+<START> the legs of someone who is watching a television <END>
+<START> a laptop computer and a <UNK> player on a desk cluttered with <UNK> <END>
+<START> a <UNK> is shown on a <UNK> wooden plate <END>
+<START> a herd of sheep grazing in a field with a <UNK> of trees <END>
+<START> a bowl with a lot of meat and <UNK> on it <END>
+<START> a brown dog with a frisbee behind a grassy field <END>
+<START> a woman with a laptop sitting on a wooden bench <END>
+<START> a man standing next to a little girl <END>
+<START> <UNK> of flowers in a <UNK> on a table with a <UNK> <END>
+<START> a bathroom that has a large mirror and a <UNK> television <END>
+<START> a black and white kitchen with a center island <END>
+<START> a small dog sitting on a river of an <UNK> <END>
+<START> a pile of <UNK> oranges sitting on top of a tree <END>
+<START> a man standing in a long dress <UNK> <END>
+<START> the <UNK> and woman are flying the beach <END>
+<START> a man in a suit and tie on a baseball game <END>
+<START> the two pizzas in boxes have different <UNK> <END>
+<START> a cat is sitting down with a <UNK> of books <END>
+<START> a hot dog sitting in the two of some <UNK> <END>
+<START> a cat laying on top of a blue couch behind a mirror <END>
+<START> a cat is laying on a wood floor with a wood floor <END>
+<START> a man in <UNK> sitting on a table with a <UNK> of food <END>
+<START> a <UNK> boat has the <UNK> on top of a wooden birds <END>
+<START> a man standing on top of a ramp with a racquet <END>
+<START> a large group of elephants walking towards the water <END>
+<START> a close up of a <UNK> of broccoli <END>
+<START> a man and a woman riding a horse on a <UNK> <END>
+<START> a white and grey cat in a grassy area with a plate <END>
+<START> the <UNK> man is <UNK> the skateboard on the ramp <END>
+<START> a man is riding down the street near a motorcycle <END>
+<START> a couple of people sitting at a table <END>
+<START> a cat sitting at a table eating and looking at <END>
+<START> a young person riding a horse on a <UNK> <END>
+<START> a plate with <UNK> food on it has many <UNK> <END>
+<START> a bicycle is sitting on the grass next to a city <END>
+<START> a man in <UNK> jacket down the <UNK> on his skateboard <END>
+<START> a man in a <UNK> jacket riding a motorcycle on a <UNK> <END>
+<START> a person that is standing at a skate park <END>
+<START> a red bus <UNK> down street in a <UNK> traffic light <END>
+<START> a man in blue shirt preparing to a woman on a tennis court <END>
+<START> a man riding a bicycle on a train near a city street <END>
+<START> a woman is riding a scooter on the side of the road <END>
+<START> a table with various items and <UNK> on a table <END>
+<START> a group of people standing on the grass near a huge <END>
+<START> there are many <UNK> around in the water <END>
+<START> this group of people poses for a photo before skiing <END>
+<START> a man is talking in to a long <UNK> <END>
+<START> a group of sheep that are grazing on a field <END>
+<START> a woman with two birds standing on a wooden bench <END>
+<START> a giraffe stands in a grassy area with other people <END>
+<START> a man playing tennis on a blue court <END>
+<START> the large clock is <UNK> by the <UNK> on the <UNK> <END>
+<START> two young children playing frisbee in a grassy field <END>
+<START> two teddy bears sitting next to to each other <END>
+<START> a man riding a snowboard on a surfboard <END>
+<START> a man and woman are sitting on a motorcycle near a red light <END>
+<START> a well lit living room with couches and pillows <END>
+<START> a <UNK> view of a toilet and the <UNK> where the front of the <UNK> <END>
+<START> a person in <UNK> flying a kite next to <UNK> <END>
+<START> there are several people walking down the street in front of a traffic <END>
+<START> a woman in a blue shirt sitting on a bench in a room <END>
+<START> a baseball player throwing a <UNK> to <UNK> <END>
+<START> a bowl of food on a table <END>
+<START> a close up of a plate of food with a coffee drink <END>
+<START> a group of people riding motorcycles on a motorcycle <END>
+<START> a woman sits on a table in a black dog <END>
+<START> a man is <UNK> with a <UNK> jacket on a <UNK> <END>
+<START> a man riding a snowboard down a snow covered slope <END>
+<START> a group of people on the <UNK> court <END>
+<START> a <UNK> <UNK> plane is <UNK> from the <UNK> on the runway <END>
+<START> two different colored sitting on a couch in a room <END>
+<START> a woman in <UNK> talking on her cell phone <END>
+<START> a large clock tower is in a city at night <END>
+<START> a bowl oranges on the next to a sliced orange <END>
+<START> a hot dog with some <UNK> of <UNK> sitting on it <END>
+<START> a tennis player with a racket looking up on a tennis court <END>
+<START> a black bear is <UNK> in the back of a tree <END>
+<START> a little girl is laying in a white bed <END>
+<START> <UNK> with several trains down in the <UNK> <END>
+<START> the <UNK> of a soccer player <UNK> to <UNK> the ball <END>
+<START> a herd of sheep standing on a lush green field <END>
+<START> a man is holding a bat in a field <END>
+<START> some guys playing in the water with a <UNK> <END>
+<START> a brown <UNK> horse eating a big <UNK> <END>
+<START> a man wearing a suit and tie and a <UNK> <END>
+<START> a woman that is sitting on a table eating food <END>
+<START> a man <UNK> a frisbee in his <UNK> while people watch <END>
+<START> a white with a kitchen with a sink tub next to it <END>
+<START> a picture of a <UNK> plane with <UNK> from <UNK> <END>
+<START> a dog wearing a hat on a <UNK> hat <END>
+<START> a kitchen with a wood floor and wooden cabinets <END>
+<START> a few flowers in the kitchen with a <UNK> counter <END>
+<START> several motorcycles on a bench between two <UNK> <END>
+<START> there is a zebra standing in the dirt <END>
+<START> the clock is on a brick <UNK> by the street <END>
+<START> a kitchen with an oven and sink stove <END>
+<START> a hot dog <UNK> of <UNK> and <UNK> fruit <END>
+<START> a hand about to <UNK> a <UNK> on a small remote <END>
+<START> a parking lot talking on the side of a road <END>
+<START> a giraffe standing on the grass near a building <END>
+<START> a <UNK> bathroom with a sink toilet and mirror <END>
+<START> a boy is swinging a baseball bat at a game <END>
+<START> a <UNK> shot of a busy area with a red van traveling <END>
+<START> a little child is playing a frisbee of an <UNK> <END>
+<START> a black <UNK> umbrella is <UNK> by two people <END>
+<START> a couple of people sitting in a room <END>
+<START> a room with a <UNK> television in a kitchen <END>
+<START> a laptop computer is on a wooden table <END>
+<START> a large bear that is <UNK> in the woods <END>
+<START> a <UNK> line with his <UNK> image of a man <UNK> <END>
+<START> a man standing in front of a laptop on a white <UNK> <END>
+<START> a small <UNK> bathroom has a white plate <END>
+<START> a very pretty gray and white cat looking <UNK> up <END>
+<START> a red <UNK> sign is next to a brick building <END>
+<START> a bath tub next to a large black <UNK> <END>
+<START> a street sign with <UNK> off and <UNK> <UNK> <END>
+<START> two <UNK> cell phones on a table with various <UNK> <END>
+<START> an adult elephant standing next to a woman on top of a field <END>
+<START> a woman sitting in a red dress cutting a white plate <END>
+<START> a small girl is holding a large piece of dirt <END>
+<START> a <UNK> of <UNK> sits on an <UNK> of an elephant <END>
+<START> a man <UNK> in the rain on a <UNK> park <END>
+<START> a baseball player holding up bat in a <UNK> <END>
+<START> a large group of people with lots of motorcycles on <END>
+<START> <UNK> <UNK> is preparing to throw a pitch at the game <END>
+<START> a passenger jet airplane with traffic <UNK> over it <END>
+<START> a sheep standing in a large field <END>
+<START> a bathroom with a white toilet and a sink tub it <END>
+<START> a pizza sits on a table in front of a plate <END>
+<START> a man driving his bicycle <UNK> down a street <END>
+<START> a <UNK> kitchen is shown with an oven <END>
+<START> a man and a woman <UNK> in a <UNK> bed <END>
+<START> a clock tower in the middle of a building <END>
+<START> a few people on the street in the water with their <UNK> <END>
+<START> a man riding a wave on top of a surfboard <END>
+<START> a plane is flying in a clear blue sky <END>
+<START> a street sign that is hanging in front of a building <END>
+<START> a man riding a woman in a green field near a crowd <END>
+<START> there is a very tall building with people walking in the background <END>
+<START> a man and a woman prepares to get off of a baseball <END>
+<START> a <UNK> image of a plane flying through the sky <END>
+<START> a skateboarder is <UNK> in the air on a sunny day <END>
+<START> a close up of a plate of food on a table <END>
+<START> a woman and a black <UNK> in front of a laptop <END>
+<START> a man <UNK> the side of a subway car <END>
+<START> a boy is surfing in the water <END>
+<START> a skateboarder is <UNK> in the air on a sunny day <END>
+<START> black cows and some <UNK> of a woman playing <END>
+<START> an <UNK> laptop and a keyboard with a child sitting on top of a window <END>
+<START> a yellow and white <UNK> is traveling on a train track <END>
+<START> a <UNK> player is in the <UNK> ready to <UNK> the ball <END>
+<START> a woman in a black shirt sitting on a motorcycle in a court <END>
+<START> a man is standing next to a parking in a lot <END>
+<START> a man sitting at a table with some glasses <END>
+<START> a boy standing at a counter preparing food <END>
+<START> a man is <UNK> his tie and a woman <END>
+<START> a horse and a woman <UNK> a group of people <END>
+<START> a red fire hydrant in a <UNK> next to a house <END>
+<START> a cat is <UNK> a banana while the <UNK> <END>
+<START> a group of people sitting on a table eating some food <END>
+<START> a couple of cats and <UNK> on top of a table eating a teddy bear <END>
+<START> a couple of elephants standing in front of a large open field <END>
+<START> a woman is eating food at a restaurant <END>
+<START> a <UNK> sandwich fries on a green plate <END>
+<START> a blue and yellow train <UNK> in a city area <END>
+<START> a plate of food with a <UNK> meat on a table <END>
+<START> a person in the sky is on a big train with many <UNK> <END>
+<START> a <UNK> cake with red <UNK> and white <UNK> on top <END>
+<START> a man flying a kite in a blue sky <END>
+<START> a man is riding on a surf board in the ocean <END>
+<START> a <UNK> image of <UNK> vegetables and other food items <END>
+<START> a truck is parked and a parking lot <END>
+<START> a black and white photo of three men holding an umbrella <END>
+<START> a man going down a ski slope on a snow covered slope <END>
+<START> a boat that is <UNK> being <UNK> on the water <END>
+<START> a plate of <UNK> and some lettuce on a <UNK> <END>
+<START> a large <UNK> truck sitting on the side of a road <END>
+<START> some people on a beach with a wave <END>
+<START> a man standing next to a little boy wearing a <UNK> tie <END>
+<START> a hot dog being <UNK> with many <UNK> <UNK> <END>
+<START> a large white <UNK> boat in water and <UNK> <END>
+<START> a man with his <UNK> cell phone while wearing a jacket <END>
+<START> a herd of sheep grazing in a field <END>
+<START> a black and white <UNK> image of a small boat <END>
+<START> a white plate sitting next to a bath tub on a table <END>
+<START> a boat on the shore of a snow covered field <END>
+<START> a street sign with the <UNK> dog <UNK> <UNK> <END>
+<START> two people sitting <UNK> at a table with some food <END>
+<START> a plate of food that sitting on a plate <END>
+<START> a kitchen with a stove and counter top <END>
+<START> a man holding a white bed while laying on a <UNK> <END>
+<START> a display filled with lots of <UNK> and <UNK> on a table <END>
+<START> a man in a <UNK> jacket riding a <UNK> with a <UNK> pole <END>
+<START> a kitchen with a stove and top of it <END>
+<START> a view of some <UNK> cake <END>
+<START> a <UNK> of people are <UNK> down in a busy area <END>
+<START> a sandwich with a cut pizza on top of a white plate <END>
+<START> a man that is standing in a white and field <END>
+<START> some people walking on the beach near a large body of water <END>
+<START> a giraffe eating <UNK> from a <UNK> tree <END>
+<START> a close shot of a bear looking out its <UNK> <END>
+<START> a <UNK> of a <UNK> sliced with a red <UNK> <END>
+<START> a man riding a wave on top of a surfboard <END>
+<START> a woman is sitting down the street on her cellphone <END>
+<START> a man standing in a large room <END>
+<START> a herd of sheep grazing in a field next to a <UNK> <END>
+<START> two train tracks next to each other under <END>
+<START> a white plate topped with a red and <UNK> <END>
+<START> a cat laying on top of a wooden chair <END>
+<START> a couple <UNK> is being <UNK> over a <UNK> <END>
+<START> baseball player <UNK> up to be ready for <UNK> at a game <END>
+<START> a group of people playing in a field <END>
+<START> a living room with a couch sitting next to a laptop <END>
+<START> a young girl is sitting next to a <UNK> while wearing glasses <END>
+<START> a computer desk on a desk next to a computer <END>
+<START> a group of men are sitting on a motorcycle <END>
+<START> the man is playing around while sitting on the table <END>
+<START> a group of <UNK> elephants standing in an <UNK> water <END>
+<START> a man is standing at a <UNK> park with trees near water <END>
+<START> woman in <UNK> black and <UNK> jacket are driving <END>
+<START> a white dog in a vase of <UNK> on a tree <END>
+<START> a train with a train stopped on the floor near a <UNK> <END>
+<START> a glass bowl with <UNK> broccoli next to a <UNK> of rice <END>
+<START> a man jumping up to ski <UNK> down a tennis court <END>
+<START> a giraffe standing next to a grassy area <END>
+<START> a couple of people sitting around a fire hydrant <END>
+<START> a person jumping up a skateboard on a ramp <END>
+<START> a woman in a kitchen cutting a piece of food <END>
+<START> a giraffe and zebra stand near each other on grass <END>
+<START> a boy holding a blue baseball bat on a pole <END>
+<START> a plate with <UNK> food on it has many <UNK> <END>
+<START> a couple of people standing by a tennis match <END>
+<START> a woman is eating the white <UNK> <END>
+<START> the zebra stands underneath a field of grass and <UNK> <END>
+<START> a giraffe is in the woods while its <UNK> <END>
+<START> a man in a hat is holding his head with people <END>
+<START> the <UNK> of men and a woman <UNK> are going down <END>
+<START> a <UNK> truck is sitting next to a sink <END>
+<START> a yellow <UNK> boat stopped at the shore of a field <END>
+<START> a man in <UNK> <UNK> next to various <UNK> <END>
+<START> a living room with a couch and coffee table and a computer <END>
+<START> a group of <UNK> elephants standing on a beach <END>
+<START> a close up of a person laying on a rocky hill <END>
+<START> an <UNK> elephant with <UNK> on the <UNK> sides <END>
+<START> a group of elephants <UNK> grazing in the grass <END>
+<START> a man is on a <UNK> while holding an open umbrella <END>
+<START> a boat that is on the <UNK> in the water <END>
+<START> a police officer is sitting on his motorcycle <END>
+<START> a young man is <UNK> his tie to <UNK> a sandwich <END>
+<START> a train that is parked on a track <END>
+<START> a white vase filled with flowers in a green vase <END>
+<START> a <UNK> of <UNK> that is flying through the <UNK> <END>
+<START> a black and white photo of a field <END>
+<START> a flower <UNK> with a drink on a plate <END>
+<START> two <UNK> cell phones on a table with various <UNK> <END>
+<START> a <UNK> at the table with a <UNK> <UNK> out <END>
+<START> a white <UNK> truck with a trailer <UNK> down the street <END>
+<START> a man in the snow is skiing on a <UNK> mountain <END>
+<START> a woman standing in front of a bathroom sink with a mirror <END>
+<START> a boy on the lawn at a <UNK> ground flying a kite <END>
+<START> two people in a grassy field preparing to fly a <UNK> <END>
+<START> a bowl of oranges with <UNK> on a blue <UNK> counter <END>
+<START> a woman <UNK> a skateboard as she <UNK> down a slope <END>
+<START> a man <UNK> to a <UNK> picture with a <UNK> <END>
+<START> a toilet and a <UNK> orange <UNK> inside <END>
+<START> a person <UNK> on a motorcycle with an <UNK> <END>
+<START> a couple of people sitting on a table <END>
+<START> a group of people who is playing tennis on a court <END>
+<START> a group of women and a child posing for a picture <END>
+<START> a man on the water riding a motorcycle with a <UNK> <END>
+<START> a man in a blue jacket is riding a horse in the snow <END>
+<START> a room with a <UNK> <UNK> and a couch that is on a desk <END>
+<START> a man in a kitchen cutting into a cake <END>
+<START> a group of different types of food in a coffee <END>
+<START> a man is posing with a frisbee in the background <END>
+<START> a man in a baseball player swinging a baseball bat <END>
+<START> a woman in a black shirt is playing a tennis game <END>
+<START> a cat sits on the back of a dog that <END>
+<START> the <UNK> of a pizza is on a plate <END>
+<START> a woman standing on a sidewalk with a <UNK> day <END>
+<START> a train that is on the train tracks <END>
+<START> the birds are <UNK> a soccer ball in the <UNK> <END>
+<START> a skateboarder <UNK> on the back of a building <END>
+<START> a little girl in <UNK> plays with a surf board and <UNK> <END>
+<START> a brown kitchen with the <UNK> book and a book <END>
+<START> a horse with a <UNK> carriage in a carriage and a <UNK> luggage <END>
+<START> a pizza with cheese and <UNK> on a plastic <END>
+<START> a man and woman <UNK> on a laptop <END>
+<START> a snowboarder has <UNK> off a <UNK> of snowy mountains <END>
+<START> a black and white photo of a train station <END>
+<START> a <UNK> sitting next to a plate of food on top <END>
+<START> a <UNK> with some <UNK> next to a tree <END>
+<START> a group of young kids riding down his skateboard <END>
+<START> a group of people <UNK> on the blue ocean <END>
+<START> a plate with <UNK> pizza and white tray on a table with <UNK> <END>
+<START> a man in a park playing frisbee with a <UNK> in the water <END>
+<START> a man standing in the snow while a frisbee <END>
+<START> a white car is parked an apple in a black and white dog <END>
+<START> a <UNK> street sign has a <UNK> cart on the side <END>
+<START> a small <UNK> of six <UNK> a green double decker bus <END>
+<START> a group of giraffes walk <UNK> on their grass <END>
+<START> a man on the beach with <UNK> on the side of the road <END>
+<START> a young boy is playing frisbee in the large <END>
+<START> a man holding a <UNK> while standing in a room <END>
+<START> a street sign with several <UNK> of traffic <UNK> <END>
+<START> a man <UNK> a woman with a frisbee and her <UNK> <END>
+<START> the <UNK> truck is <UNK> on the luggage with <UNK> <END>
+<START> a <UNK> full of four <UNK> food out and a couple of <UNK> <END>
+<START> a woman sitting in a living room playing with a television <END>
+<START> a man riding a wave on a surfboard in the ocean <END>
+<START> a cat laying on the bed with a window <END>
+<START> a desk with a laptop and many <UNK> <END>
+<START> a man holding a tennis racquet on top of a court <END>
+<START> a <UNK> of vegetables and <UNK> food inside of a plate <END>
+<START> a horse running through a <UNK> pasture in the grass <END>
+<START> a boy on the motorcycle is <UNK> at the bat <END>
+<START> a dog standing on the grass near a <UNK> <END>
+<START> a little boy is swinging a baseball bat at a game <END>
+<START> a brown teddy bear sitting on a table in the middle <END>
+<START> a bathroom with a toilet paper and a sink <END>
+<START> a plate of food that has <UNK> and a drink <END>
+<START> a dog is standing in a <UNK> at night <END>
+<START> a woman sitting on a couch in the water <END>
+<START> a small dog <UNK> on the <UNK> of a tree holding a clock <END>
+<START> a <UNK> table topped with two plates of <UNK> and <UNK> <END>
+<START> a woman and a woman on a tennis court with a racquet <END>
+<START> a white and red <UNK> and a plane sitting in the air <END>
+<START> a group of people riding <UNK> down a road <END>
+<START> a man standing on a horse with a <UNK> day <END>
+<START> a woman is <UNK> a her at a restaurant <END>
+<START> a clock on the side of a building <END>
+<START> a person is riding a dirt on the beach <END>
+<START> a woman is sitting on her motorcycle with a car <UNK> <END>
+<START> <UNK> and other people are <UNK> together <END>
+<START> a woman sitting and holding onto a colorful <UNK> at night <END>
+<START> two women playing a game with wii remote <UNK> <END>
+<START> a boy sits in a blue shirt getting ready to throw a frisbee <END>
+<START> large white building with a red roof facing a city road <END>
+<START> a red and white <UNK> truck with a <UNK> attached to the top <END>
+<START> a giraffe and <UNK> stand under the <UNK> of leaves <END>
+<START> a sign with <UNK> <UNK> and a stop sign <END>
+<START> a city street <UNK> with traffic light on top of a <UNK> pole <END>
+<START> a woman <UNK> food and a dog in a hat <END>
+<START> three boats docked in a large pasture <END>
+<START> a woman standing in a room with her <UNK> on it <END>
+<START> a group of sheep standing on top of a dirt field <END>
+<START> a <UNK> photo of various <UNK> laying on a bed <END>
+<START> the pieces of men are arranged near a white plate <END>
+<START> a living room with a couch and a chair and <UNK> <END>
+<START> a man riding a bike on a <UNK> street <END>
+<START> a woman in a <UNK> coat is holding a piece of <UNK> <END>
+<START> a <UNK> of an <UNK> photo taken from the water <END>
+<START> a <UNK> with a cake on a plate of <UNK> <END>
+<START> a man riding the waves through a river in a forest <END>
+<START> a wooden <UNK> stand next to a fence <END>
+<START> a woman in <UNK> glasses is holding a pizza <END>
+<START> a group of people that are flying around a kite <END>
+<START> a <UNK> is walking across a field with a rock <END>
+<START> a small brown dog with frisbee in a grassy field <END>
+<START> an elephant looks <UNK> its trunk in a tree branch <END>
+<START> a couple of men sitting on a video game <END>
+<START> a man is on a back of <UNK> holding a dog <END>
+<START> a group of people riding motorcycles in a <UNK> <END>
+<START> a train <UNK> down the tracks with a toilet <END>
+<START> a white jet airplane in the runway <END>
+<START> a bathroom <UNK> with toilet and sink <END>
+<START> a woman sitting on her <UNK> with a car <END>
+<START> a man is flying a kite high in a <UNK> <END>
+<START> a <UNK> sandwich of meat with <UNK> and vegetables <END>
+<START> a <UNK> of <UNK> that is flying through the <UNK> <END>
+<START> a man is in the grass back a frisbee <END>
+<START> a traffic light with a sign on <UNK> of a road <END>
+<START> a giraffe stands in front of a fenced in <UNK> <END>
+<START> a cat is laying on a bed in front of a television <END>
+<START> a red traffic light and a street sign with <UNK> on it <END>
+<START> a couple of people standing in a field near a <UNK> <END>
+<START> a <UNK> truck with <UNK> the <UNK> and a stop sign <END>
+<START> a man riding his <UNK> while going down a ski slope <END>
+<START> a red and white train is going down the tracks <END>
+<START> a <UNK> plane sitting on the runway of a building <END>
+<START> a baseball player up to <UNK> a bat at a game <END>
+<START> a little boy is eating with a big red <UNK> <END>
+<START> a small boat that has a <UNK> at a corner of it <END>
+<START> a little boy with his tie standing next to a laptop <END>
+<START> a woman is holding up two of white birds <END>
+<START> a plane sitting on the runway at a <UNK> airport <END>
+<START> a pizza sitting on a table with a <UNK> knife <END>
+<START> a <UNK> bathroom with <UNK> toilet and <UNK> <END>
+<START> a woman holding a red <UNK> umbrella on a person holding a phone <END>
+<START> a blue <UNK> filled with red vehicle <END>
+<START> a bathroom that has a toilet and is in the mirror <END>
+<START> a woman is sitting in a chair on a couch <END>
+<START> a <UNK> sandwich is sitting on a metal bowl <END>
+<START> a group of people standing on a city street <END>
+<START> a tall clock tower with a large <UNK> and painted <END>
+<START> a man in a long red jacket on a field <END>
+<START> a cat is sitting on a bed in a mirror <END>
+<START> a picture of the water <UNK> down the road <END>
+<START> a plate with some sandwiches on it sitting on a table <END>
+<START> several cows eat over a beach <END>
+<START> a white plate with a red and white cat making it <END>
+<START> two zebras standing on a dirt ground standing in a snow <END>
+<START> a young boy skateboarding on a skateboard at night <END>
+<START> a man holds a <UNK> to a <UNK> look at a car <END>
+<START> a woman sitting on a bed in a chair <END>
+<START> a piece of luggage case on a street with cars <END>
+<START> a group of men that are playing in the snow <END>
+<START> a big bright blue <UNK> sky of a building <END>
+<START> <UNK> two men <UNK> are standing in front of <UNK> <END>
+<START> a bathroom that has a toilet in a bowl and <UNK> <END>
+<START> a man <UNK> a horse in a park <END>
+<START> a bunch of some meat filled with vegetables <END>
+<START> a man sits on a laptop with a <UNK> dog <END>
+<START> a <UNK> plate with a drink on a blue plate <END>
+<START> a man swinging a tennis racquet towards a tennis ball <END>
+<START> a sandwich <UNK> with meat and <UNK> on a plate <END>
+<START> a white cat laying in a bed while on a black bed <END>
+<START> two people on the beach with their surfboards <END>
+<START> a close up of a person near a glass of <UNK> <END>
+<START> a computer two monitors is <UNK> on the <UNK> <END>
+<START> a skateboarder <UNK> his parked next to a parking lot <END>
+<START> a zebra stands in the <UNK> tall <END>
+<START> a <UNK> truck with <UNK> legs and <UNK> by trees <END>
+<START> two men <UNK> a meal on a <UNK> table <END>
+<START> a pizza with multiple <UNK> and <UNK> on a city <END>
+<START> a large train sitting on top of a train near a platform <END>
+<START> a large train is sitting on the train tracks <END>
+<START> a group of people on <UNK> snow skis standing in the snow <END>
+<START> the boy is swinging a bat at a <UNK> <END>
+<START> a close up of a zebra on a river <END>
+<START> a living room with a tv and chair <UNK> in the background <END>
+<START> a man riding a wave in the ocean on a surfboard <END>
+<START> a small dog is <UNK> by a leash <END>
+<START> a <UNK> clock the inside of a <UNK> <END>
+<START> a restaurant filled with lots of food and wine <END>
+<START> a man playing with <UNK> on a video game <END>
+<START> the kitchen with its <UNK> bed <END>
+<START> a large <UNK> fire hydrant in the middle of a <UNK> <END>
+<START> the clock is <UNK> in front of a building with a clock <END>
+<START> a bathroom that has a toilet and sink and shower in it <END>
+<START> a <UNK> of animals graze in <UNK> <END>
+<START> a man is playing a game with some remote controllers <END>
+<START> a man laying on the couch with a tie <UNK> his cell phone <END>
+<START> there are two cows standing together in a large open field <END>
+<START> this is an <UNK> <UNK> of graffiti on what was a construction sign <END>
+<START> a cow is sitting on a wooden bench <END>
+<START> <UNK> and a teddy bear in a basket <END>
+<START> parked motor scooter with many <UNK> view <UNK> attached to it <END>
+<START> baseball player at bat about to <UNK> hit <END>
+<START> a train that has stopped to get ready to <UNK> up a <UNK> <END>
+<START> an image of a small <UNK> setting in a <UNK> setting <END>
+<START> a person <UNK> from the rain by their umbrella walks down the road <END>
+<START> a red <UNK> crossing in white <UNK> coat by <UNK> <END>
+<START> a <UNK> kitchen <UNK> with a counter and <UNK> sink <END>
+<START> a <UNK> bed with two <UNK> <UNK> the windows <END>
+<START> a red <UNK> and yellow street sign under a <UNK> <END>
+<START> a young man is playing frisbee in a field <END>
+<START> the four people are playing a game of tennis <END>
+<START> a man is standing on a snowboard atop a mountain <END>
+<START> a <UNK> clock tower <UNK> over a <UNK> can <UNK> <END>
+<START> a plate of food with a sandwich on a sandwich <END>
+<START> a man riding a wave in the ocean on a surfboard <END>
+<START> a tennis player is swinging a tennis ball during a <UNK> <END>
+<START> two men on a motorcycle <UNK> is going down <END>
+<START> a horse <UNK> with <UNK> and <UNK> in a train <END>
+<START> a woman that is sitting on a table in front of a fork <END>
+<START> a man is playing a wii video game <END>
+<START> elephants is walking along in the grass <END>
+<START> a man and a woman stand together cutting <UNK> <END>
+<START> a group of people flying kites on a beach <END>
+<START> a man and skiing are working on a train track <END>
+<START> <UNK> items is <UNK> as a <UNK> birthday cake <END>
+<START> a busy city filled with many cars and buildings and buildings <END>
+<START> a kitchen with an oven and sink sitting next to it <END>
+<START> a person sitting on a chair <UNK> a video game <END>
+<START> a young man sitting in the kitchen sink of a bathroom <END>
+<START> a group of <UNK> men on a <UNK> road <END>
+<START> a woman in a <UNK> coat and other cooking <END>
+<START> a green bus parked in the <UNK> of buildings <END>
+<START> a bus with a <UNK> dog <UNK> in it <END>
+<START> a kitchen with stove and sink in the bathroom <END>
+<START> a teddy bear <UNK> to some <UNK> while holding a <UNK> <END>
+<START> a <UNK> sitting next to a tub of <UNK> <END>
+<START> a man <UNK> a pair of scissors elephants <END>
+<START> a room with a tv sitting on a wooden table in it <END>
+<START> a clock tower stands in front of a <UNK> <END>
+<START> a black train up against a white and a <UNK> in the top <END>
+<START> a group of cows grazing in a pasture next to field <END>
+<START> a group of people who are standing in the snow <END>
+<START> a kitchen with a refrigerator at a counter and a sink <END>
+<START> a woman has a red and white picture on her table <END>
+<START> a young boy sits on a bright green grass holding a <UNK> sign <END>
+<START> a giraffe standing on the ground near a building <END>
+<START> a <UNK> kitchen with a <UNK> plant on the counter <END>
+<START> a plate of food that has <UNK> on a white plate <END>
+<START> a <UNK> lit up kitchen next to a hotel <END>
+<START> a woman is an <UNK> on a couch <END>
+<START> a man is skiing down a mountain of snow <END>
+<START> a man that is standing on a snowboard in snow <END>
+<START> a couple of elephants standing by a rock in the forest <END>
+<START> a woman leaning against a counter on a microwave oven <END>
+<START> a red double decker bus is on a street <END>
+<START> a man and woman standing in front of a brick pizza <END>
+<START> a sandwich is shown with meat and <UNK> <END>
+<START> a man <UNK> to <UNK> the ball <END>
+<START> a plate of food and a blue <UNK> and a bottle <END>
+<START> a <UNK> of the <UNK> with some yellow bananas <END>
+<START> a black and white <UNK> image of some elephants <END>
+<START> there are two zebras standing together in a wooded area <END>
+<START> a bathroom with <UNK> sink toilet and shower with brown <UNK> <END>
+<START> a large elephant walking through the grass with a tree <END>
+<START> a man who is <UNK> a video game with a frisbee <END>
+<START> a couple of elephants walking in a dirt field <END>
+<START> a <UNK> cat sits on a <UNK> back <END>
+<START> a man sits on a table with plates of food <END>
+<START> a view of a <UNK> bathroom inside <END>
+<START> two zebras standing next to each other standing on their pen <END>
+<START> a black and white dog lays in the grass <END>
+<START> a group of people standing on the <UNK> in the water <END>
+<START> two <UNK> guys and their woman in the snow <END>
+<START> a bath tub next to a toilet and <UNK> <END>
+<START> a small bathroom has been <UNK> and a painted <END>
+<START> a large sheep <UNK> in a grassy field with a frisbee <END>
+<START> a <UNK> sandwich with <UNK> and other <UNK> along <END>
+<START> three bananas on the floor of a city street <END>
+<START> a <UNK> view of some <UNK> standing in a dirt <END>
+<START> a skateboarder <UNK> is taking a picture of a building in the city <END>
+<START> a lone plane flying in a clear sky with landing gear down <END>
+<START> a white plate with a bowl on it <END>
+<START> a small <UNK> hole is on the beach flying a kite <END>
+<START> a man riding a wave in the ocean on a surfboard <END>
+<START> a pizza is sitting on a plate of a salad <END>
+<START> an <UNK> looks at a woman holding two birds <END>
+<START> a kitchen with stove refrigerator and sink in it <END>
+<START> a brown and yellow bird flying through the air <END>
+<START> a boy sits in a blue shirt getting ready to throw a frisbee <END>
+<START> a man and woman posing for a picture <END>
+<START> an <UNK> men in a <UNK> working on a <UNK> <END>
+<START> a woman in a <UNK> carrying a man holding a laptop <END>
+<START> there is a <UNK> leading to a refrigerator at a <UNK> <END>
+<START> a woman <UNK> a woman in her middle of skiing <END>
+<START> a man is sitting on a couch <END>
+<START> a plate of food that has <UNK> on a <UNK> <END>
+<START> a close up of a picture of a elephants near a water <END>
+<START> a woman sits on a city street with her head <END>
+<START> <UNK> <UNK> umbrellas are left laying around while a guy stands watch <END>
+<START> a large herd of elephants are standing near a wall on the water <END>
+<START> a man about to take a swing at a tennis ball <END>
+<START> <UNK> a <UNK> and stand <UNK> on a table <END>
+<START> a man is <UNK> out the water on a refrigerator <END>
+<START> a cat sits in front of a laptop computer <END>
+<START> a bathroom with a toilet and sink looking at a <UNK> <END>
+<START> sheep in a <UNK> green field with a white <UNK> <END>
+<START> a man holding a very long on hill <END>
+<START> a <UNK> swinging a tennis racket during a <UNK> <END>
+<START> a woman is <UNK> her holding a phone and one <END>
+<START> a group of people riding down a road near a river <END>
+<START> a woman in <UNK> swinging a tennis racquet <END>
+<START> a man riding a wave in the ocean <END>
+<START> a clock tower with several <UNK> around it <END>
+<START> a baseball player holding a bat on top of a field <END>
+<START> a picture of a <UNK> bathroom with a <UNK> window <END>
+<START> a kitchen with a sink of <UNK> pots and bowls <END>
+<START> a boat that is <UNK> on the back of a <UNK> <END>
+<START> a man surfing with a surfboard on the ocean <END>
+<START> a man standing on top of a laptop under a light <END>
+<START> a man is sitting in a piece of pizza on a sandwich <END>
+<START> the legs of grey and white station <UNK> sits on the street <END>
+<START> a <UNK> of <UNK> sheep stand in a large <UNK> <END>
+<START> a cat with <UNK> and a <UNK> on a branch <END>
+<START> a boy on a surfboard with a <UNK> wave in the background <END>
+<START> two <UNK> the grass are eating food <END>
+<START> a large airplane on the runway ready to take off <END>
+<START> a person <UNK> baseball to hit a ball on the court <END>
+<START> a red stop sign sits on a pole in a dirt road <END>
+<START> a living room with a couch coffee and table <END>
+<START> a woman in <UNK> shirt using her cell phone in a <UNK> <END>
+<START> a plate of food with some <UNK> on a sandwich <END>
+<START> a person in the grass is flying a kite <END>
+<START> a man with <UNK> dressed in one hand and a <UNK> <END>
+<START> a man in front of a laptop and a keyboard are <UNK> <END>
+<START> a <UNK> view of the <UNK> with a <UNK> street <END>
+<START> a large long blue <UNK> stand with his stand in it <END>
+<START> a man with woman on back <UNK> outside a river <END>
+<START> the man is holding a piece of luggage <END>
+<START> a black and white dog is sitting on the ground <END>
+<START> a man holding a frisbee in the air <END>
+<START> a photo of the two horses are walking on the street <END>
+<START> a computer is sitting on a <UNK> chair <END>
+<START> a man in a <UNK> is riding an empty street <END>
+<START> a brown horse eating a big tree <END>
+<START> and a <UNK> under a clock tower with a sink looking out <END>
+<START> a <UNK> sitting on top of a no birds sign <END>
+<START> a man and woman in the back are holding a single umbrella <END>
+<START> a <UNK> sign is <UNK> in front of a building <END>
+<START> the window is a orange and a <UNK> <END>
+<START> a man with <UNK> on a back <UNK> back <END>
+<START> a black and white clock tower in a hotel room <END>
+<START> a plate of food with some <UNK> and fries on it <END>
+<START> two zebras standing on dirt with <UNK> in the dirt <END>
+<START> a man sitting on top of a laptop in a bed <END>
+<START> a woman sitting on a laptop holding computer is on a wooden phone <END>
+<START> a group of giraffes stand next to each other in a field <END>
+<START> a red <UNK> black cat with a blue <UNK> top on it <END>
+<START> a kitchen with a <UNK> center island <END>
+<START> a bench covered in the woods next to a wooden <UNK> <END>
+<START> two children eating food on the <UNK> <END>
+<START> a black cat laying on top of a bed <END>
+<START> a baseball player is swinging a bat at a baseball game <END>
+<START> a man in an office holding a laptop and keyboard <END>
+<START> a sign <UNK> <UNK> a <UNK> street <END>
+<START> two people near one another one holding a <UNK> at the end <END>
+<START> a couple of elephants are standing in a grassy field <END>
+<START> two young men standing on the ground with a huge white bear <END>
+<START> a little boy sitting in the lawn at a <UNK> <END>
+<START> a <UNK> of six and a boat with a bridge on it <END>
+<START> a group of cattle and laying down a small hill <END>
+<START> a woman is in her <UNK> of her <UNK> <END>
+<START> two woman talking on a cell phone at a table <END>
+<START> a boat on the shore of a snow covered field <END>
+<START> the bathroom has a shower <UNK> on it <END>
+<START> a horse jumping over a <UNK> in the grass <END>
+<START> a <UNK> blue <UNK> to some yellow <UNK> and yellow train cars <END>
+<START> a pizza <UNK> in a <UNK> pan on a table <END>
+<START> a white dog is lying and out of a in the hay <END>
+<START> a man in a <UNK> jacket riding a <UNK> down <END>
+<START> a plane sitting on a tarmac with people at the airport <END>
+<START> a group of <UNK> of men sitting on a <UNK> shelf <END>
+<START> a zebra standing in the grass <END>
+<START> group of people sitting on top of a chair together <END>
+<START> a female tennis player prepares to hit a ball <END>
+<START> a group of animals with two bears sitting in the dirt <END>
+<START> a young man is riding a woman in a large body of water <END>
+<START> a man with a bike <UNK> on a leash <END>
+<START> a man with a <UNK> tie and a tennis ball <END>
+<START> a bunch of trees in the dirt near water <END>
+<START> a room with <UNK> <UNK> and tie on a couch <END>
+<START> a long train traveling on a <UNK> track with an <UNK> <END>
+<START> two people sitting together in a large cake on a table <END>
+<START> a living room with a television couch and a <UNK> coffee <END>
+<START> a black dog sitting on a bed <END>
+<START> a woman is <UNK> her playing frisbee in a <UNK> <END>
+<START> a group of young people playing with frisbee on field <END>
+<START> a man on a field playing with a <UNK> on his skateboard <END>
+<START> a man posing for a picture with a <UNK> <END>
+<START> a traffic light hanging above an <UNK> street <END>
+<START> a cow is standing in the middle of a river <END>
+<START> a man with his tie standing next to a blue and white <END>
+<START> a man looking up at a skate park <END>
+<START> people with skis on a snowy hill during the day <END>
+<START> red and white <UNK> with a plate of <UNK> dish <END>
+<START> a cat sitting on a chair in the kitchen <END>
+<START> a kitchen with a <UNK> bed and an open window <END>
+<START> a black and white picture of a <UNK> street <END>
+<START> a train traveling down a street next to a train station <END>
+<START> a group of people riding on the dirt near a river <END>
+<START> a bowl with a <UNK> broccoli to it from a <UNK> tree <END>
+<START> a man is <UNK> skiing from a tennis racket <END>
+<START> a pizza is cut and a sliced pizza <END>
+<START> a man and woman sitting on a bench of looking <END>
+<START> a street sign has many <UNK> down the street <END>
+<START> a man is holding a video <UNK> game <END>
+<START> two men standing by boxes of <UNK> are on <END>
+<START> a black and white picture of a man walking <END>
