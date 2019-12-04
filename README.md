@@ -18,7 +18,7 @@ coco2014_captions.h5
 train2014_images.txt  
 train2014_vgg16_fc7.h5      
 val2014_images.txt  
-val2014_vgg16_fc7.h5
+val2014_vgg16_fc7.h5 
 coco2014_vocab.json   
 train2014_urls.txt    
 train2014_vgg16_fc7_pca.h5  
@@ -27,3 +27,5 @@ val2014_vgg16_fc7_pca.h5
 
 These files can be downloaded using the get_assignment_data.sh shell script
 
+### References
+Ren, Zhou, et al. "Deep reinforcement learning-based image captioning with embedding reward." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017.
