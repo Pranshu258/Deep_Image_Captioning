@@ -1,0 +1,9 @@
+numpy==1.16.2
+torch==1.2.0
+nltk==3.4
+pycocoevalcap==1.0
+h5py==2.9.0
+matplotlib==3.0.3
+future==0.17.1
+imageio==2.6.1
+torchsummary==1.5.1
