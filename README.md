@@ -11,3 +11,19 @@ The policy, reward and the value functions are approximated with deep neural net
 
 ### Implementation
 The component networks, their training and evaluation code is implemented in the Deep_Captioning.ipynb notebook. MSCOCO dataset is used for all the training and evaluation with the 2014 splits. The implementation works with 512 dimensional features vectors instead of raw images. These feature vectors were extracted from the fully connected (fc7) layer of VGG-16 which gives 4096 dimensional vectors, the PCA was applied on them to get 512 dim vectors. The notebook itself is self contained with code and description.
+
+The dataset files should be kept in "code/utils/datasets/coco_captioning", with the following file names:
+
+coco2014_captions.h5  
+train2014_images.txt  
+train2014_vgg16_fc7.h5      
+val2014_images.txt  
+val2014_vgg16_fc7.h5
+coco2014_vocab.json   
+train2014_urls.txt    
+train2014_vgg16_fc7_pca.h5  
+val2014_urls.txt   
+val2014_vgg16_fc7_pca.h5
+
+These files can be downloaded using the get_assignment_data.sh shell script
+
